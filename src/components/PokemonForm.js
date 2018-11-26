@@ -1,6 +1,7 @@
 import React from 'react'
 import { Form } from 'semantic-ui-react'
 
+// too lazy to finish :)
 class PokemonForm extends React.Component {
   constructor() {
     super()
